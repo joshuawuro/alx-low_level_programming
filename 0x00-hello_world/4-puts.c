@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - outputs the message
+ * main - outputs message stored in the char variable
  *
- * return 0 - sucess
+ * return: returns the value 0
  */
 int main(void)
 {
