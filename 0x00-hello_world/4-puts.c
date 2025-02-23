@@ -2,7 +2,7 @@
 /**
  * main - outputs message stored in the char variable
  *
- * return: returns the value 0
+ * Return: returns the value 0
  */
 int main(void)
 {
